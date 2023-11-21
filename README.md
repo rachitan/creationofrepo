@@ -1,1 +1,1 @@
-# creationofrepo
+Learing and exploring GITHUB
